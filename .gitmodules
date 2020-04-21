@@ -1,0 +1,9 @@
+[submodule "antlr4"]
+	path = antlr4
+	url = https://github.com/enricobu96/antlr4
+[submodule "WIM-ilMitte"]
+	path = WIM-ilMitte
+	url = https://github.com/enricobu96/WIM-ilMitte
+[submodule "Progetto_Ricerca_Operativa"]
+	path = Progetto_Ricerca_Operativa
+	url = https://github.com/enricobu96/Progetto_Ricerca_Operativa
